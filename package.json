@@ -1,0 +1,24 @@
+{
+  "name": "@slonoed/homebridge-synology-surveillance-homemode",
+  "version": "1.0.0",
+  "author": "Dmitry Manannikov <email@slonoed.net> (https://slonoed.net)",
+  "description": "Virtual switch to control Synology Surveillance Station home mode",
+  "license": "The Unlicense",
+  "homepage": "https://github.com/slonoed/homebridge-synology-surveillance-homemode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slonoed/homebridge-synology-surveillance-homemode"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "synology"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/slonoed/homebridge-synology-surveillance-homemode/issues"
+  }
+}
